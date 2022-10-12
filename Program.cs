@@ -6,7 +6,7 @@
 //Instantiating a Car class / Creating an object of type Car
 Car car1 = new Car("BMW");
 Car car2 = new Car("Toyota", 2, 8, 25);
-
+Car car3 = new Car("Lada");
 Console.ReadKey();
 
 //Class definition
