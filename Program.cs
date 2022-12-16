@@ -5,9 +5,22 @@
 
 //Instantiating a Car class / Creating an object of type Car
 
-Random rnd = new Random();
-int rng_money  = rnd.Next(1, 10000);
-Console.WriteLine(rng_money);
+dealer d = new dealer(123,"Jesper");
+Car myNewCar = d.Buy(4);
+{
+    {
+
+
+        Console.WriteLine("Type 1 for a BMW.\n Type 2 for a Toyota.\n Type 3 for a Ford.\n Type 4 for a Mercedes.\n Type 5 for a Mazda.");
+        string input = Console.ReadLine();
+        int carId = int.Parse(input);
+        Car YouBought = d.Buy(carId);
+        Console.WriteLine(YouBought.ToString());
+        Console.ReadKey();
+    }
+}
+
+
 
 //En eller anden køber hos JEsper
 

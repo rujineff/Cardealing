@@ -9,12 +9,14 @@ public class Car{
     public List<Door> Doors;
     public List<Tire> Tires;
     public List<light> lights;
+    public int Price;
 
     #endregion
 
     #region Constructors
 
-    public Car(string brandParamater){
+    public Car(string brandParamater, int price){
+        Price = price;
         this.Brand = brandParamater;
         this.Tires = new List<Tire>();
         this.Doors = new List<Door>();
@@ -56,6 +58,10 @@ public class Car{
         doorParameter.Open();
         Console.WriteLine("Got inside " + Brand);
         doorParameter.Close();
+    }
+
+    public string ToString(){
+        return "Car : " + Brand + " " + Price ;
     }
 
     #endregion
