@@ -1,4 +1,4 @@
-class Car{
+public class Car{
     #region Fields
     
     public string Brand = ""; 
@@ -8,6 +8,7 @@ class Car{
     
     public List<Door> Doors;
     public List<Tire> Tires;
+    public List<light> lights;
 
     #endregion
 
@@ -23,6 +24,7 @@ class Car{
 
         for(int i = 0; i < 4; i++){
             this.Tires.Add(new Tire(10));
+            //light
         }
         this.GetIn(this.Doors[0]);
         Console.WriteLine("Car constructed / Instantiated");
