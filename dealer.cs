@@ -22,9 +22,17 @@ public class dealer
     public Car Buy(int id)
     {
         Car bought = Cars[id];
+        
         Cars.RemoveAt(id);
         return bought;
+    }
 
+    public Car sell(int id)
+    {
+        Car brought = Cars[id];
+
+        Cars.RemoveAt(id);
+        return brought;
     }
 
 }
