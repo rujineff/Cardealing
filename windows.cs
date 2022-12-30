@@ -1,4 +1,4 @@
-class Window{ 
+public class Window{ 
  
     private bool IsOpen; 
  

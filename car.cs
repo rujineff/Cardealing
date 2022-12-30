@@ -1,4 +1,4 @@
-class Car{
+public class Car{
     #region Fields
     
     public string Brand = ""; 
@@ -8,12 +8,15 @@ class Car{
     
     public List<Door> Doors;
     public List<Tire> Tires;
+    public List<light> lights;
+    public int Price;
 
     #endregion
 
     #region Constructors
 
-    public Car(string brandParamater){
+    public Car(string brandParamater, int price){
+        Price = price;
         this.Brand = brandParamater;
         this.Tires = new List<Tire>();
         this.Doors = new List<Door>();
@@ -23,6 +26,7 @@ class Car{
 
         for(int i = 0; i < 4; i++){
             this.Tires.Add(new Tire(10));
+            //light
         }
         this.GetIn(this.Doors[0]);
         Console.WriteLine("Car constructed / Instantiated");
@@ -54,6 +58,10 @@ class Car{
         doorParameter.Open();
         Console.WriteLine("Got inside " + Brand);
         doorParameter.Close();
+    }
+
+    public string ToString(){
+        return "Car : " + Brand + " " + Price ;
     }
 
     #endregion

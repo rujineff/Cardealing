@@ -1,5 +1,5 @@
  
-class Door{ 
+public class Door{ 
  
     private bool IsOpen; 
  

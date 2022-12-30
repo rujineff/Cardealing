@@ -13,3 +13,18 @@ C:\Users\Mathias Chr. Nissen\OneDrive\Skrivebord\Kraken\Cardealing\obj\Debug\net
 C:\Users\Mathias Chr. Nissen\OneDrive\Skrivebord\Kraken\Cardealing\obj\Debug\net6.0\Cardealing.pdb
 C:\Users\Mathias Chr. Nissen\OneDrive\Skrivebord\Kraken\Cardealing\obj\Debug\net6.0\Cardealing.genruntimeconfig.cache
 C:\Users\Mathias Chr. Nissen\OneDrive\Skrivebord\Kraken\Cardealing\obj\Debug\net6.0\ref\Cardealing.dll
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\bin\Debug\net6.0\Cardealing.exe
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\bin\Debug\net6.0\Cardealing.deps.json
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\bin\Debug\net6.0\Cardealing.runtimeconfig.json
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\bin\Debug\net6.0\Cardealing.dll
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\bin\Debug\net6.0\Cardealing.pdb
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\obj\Debug\net6.0\Cardealing.csproj.AssemblyReference.cache
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\obj\Debug\net6.0\Cardealing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\obj\Debug\net6.0\Cardealing.AssemblyInfoInputs.cache
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\obj\Debug\net6.0\Cardealing.AssemblyInfo.cs
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\obj\Debug\net6.0\Cardealing.csproj.CoreCompileInputs.cache
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\obj\Debug\net6.0\Cardealing.dll
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\obj\Debug\net6.0\refint\Cardealing.dll
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\obj\Debug\net6.0\Cardealing.pdb
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\obj\Debug\net6.0\Cardealing.genruntimeconfig.cache
+C:\Users\runen\OneDrive\Skrivebord\Hansenberg\Programmering\Csharp\Cardealing\obj\Debug\net6.0\ref\Cardealing.dll

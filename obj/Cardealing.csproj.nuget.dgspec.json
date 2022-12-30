@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mathias Chr. Nissen\\OneDrive\\Skrivebord\\Kraken\\Cardealing\\Cardealing.csproj": {}
+    "C:\\Users\\runen\\OneDrive\\Skrivebord\\Hansenberg\\Programmering\\Csharp\\Cardealing\\Cardealing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mathias Chr. Nissen\\OneDrive\\Skrivebord\\Kraken\\Cardealing\\Cardealing.csproj": {
+    "C:\\Users\\runen\\OneDrive\\Skrivebord\\Hansenberg\\Programmering\\Csharp\\Cardealing\\Cardealing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mathias Chr. Nissen\\OneDrive\\Skrivebord\\Kraken\\Cardealing\\Cardealing.csproj",
+        "projectUniqueName": "C:\\Users\\runen\\OneDrive\\Skrivebord\\Hansenberg\\Programmering\\Csharp\\Cardealing\\Cardealing.csproj",
         "projectName": "Cardealing",
-        "projectPath": "C:\\Users\\Mathias Chr. Nissen\\OneDrive\\Skrivebord\\Kraken\\Cardealing\\Cardealing.csproj",
-        "packagesPath": "C:\\Users\\Mathias Chr. Nissen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mathias Chr. Nissen\\OneDrive\\Skrivebord\\Kraken\\Cardealing\\obj\\",
+        "projectPath": "C:\\Users\\runen\\OneDrive\\Skrivebord\\Hansenberg\\Programmering\\Csharp\\Cardealing\\Cardealing.csproj",
+        "packagesPath": "C:\\Users\\runen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\runen\\OneDrive\\Skrivebord\\Hansenberg\\Programmering\\Csharp\\Cardealing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mathias Chr. Nissen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\runen\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
