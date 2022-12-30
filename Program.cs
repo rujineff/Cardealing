@@ -18,11 +18,35 @@ Car YouBought = d.Buy(carId);
 Console.WriteLine(YouBought.ToString());
 Console.ReadKey();
 
-Console.WriteLine("Do you want to buy the car?");
+Console.WriteLine("Do you want to buy the car?\nSay yes or no");
+
+string? answer = Console.ReadLine();
+
+if (answer == "no")
+{
+    Console.WriteLine();
+    Console.WriteLine("You do not buy the car");
+    Console.ReadKey();
+}
+
+bool Buying = false;
+if (answer == "yes")
+{
+    Buying = true;
+}
+
+if (Buying == true)
+{
+    Console.WriteLine();
+    Console.WriteLine("You buy the car");
+    Console.WriteLine("Car Dealer: Thank you for the purchares.\nCar Dealer: Here are the keys for the car.");
+}
+
+Console.WriteLine("Do you want to sell your car?\n");
 
 Car MySoldCar = d.sell(4);
 
-Console.WriteLine("Do you want to sell your car?\nPress 0");
+Console.WriteLine("Press 9");
 input = Console.ReadLine();
 carId = int.Parse(input);
 Car YouBought2 = d.Buy(carId);
